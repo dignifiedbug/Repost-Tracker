@@ -11,4 +11,4 @@ Run the main program with *repost_tracker.py*.
 
 Expect download_history.py to take a while (depending on the size of your subreddit). It may finish before 100%.
 
-DB Browser (*[Website](http://sqlitebrowser.org/)*, *[Github](https://github.com/sqlitebrowser/sqlitebrowser)*) for SQLite is an excellent tool to view your database.
+DB Browser (*[Website](http://sqlitebrowser.org/)*, *[Github](https://github.com/sqlitebrowser/sqlitebrowser)*) for SQLite is an excellent tool to view any sqlite database.
