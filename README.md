@@ -4,7 +4,7 @@ A tool to alert you when a repost is submitted.
 ### Running
 Run the main program with *repost_tracker.py*.
 
-*download_history.py* will create a *history.py* database file. This is needed.
+Run *download_history.py* to create a database. history.db file will be used by default.
 
 ### Recommendations
 [A comprehensive guide to running your bot](redd.it/3d3iss) should help answer most questions.
